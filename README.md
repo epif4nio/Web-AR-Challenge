@@ -3,7 +3,7 @@
 This demo was developed with 2 goals in mind:
 
 * trying the [ar.js](https://github.com/jeromeetienne/AR.js) library
-* making a simple "game" where people had to identify 3 objects (this was actually use in a tech event)
+* making a simple "game" where people had to identify 3 objects (this was actually used in a tech event)
 
 # How to use it
 
