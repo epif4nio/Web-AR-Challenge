@@ -15,6 +15,7 @@ This demo was developed with 2 goals in mind:
 # Credits
 
 * Code: Tiago Epifânio
+* AR.js library by Jerome Etienne (MIT license) - https://github.com/jeromeetienne/AR.js 
 * 3D Model 'Tardis' by Scott Marshall (CC-BY) - https://poly.google.com/view/6NDfrSaYF7i
-* 3D Model 'Robocop'
-* 3D Model 'Bonsai'
+* 3D Model 'Robocop' by Jason Coursey (CC-BY) - https://poly.google.com/view/0FQIeBSMi9Z
+* 3D Model 'Bonsai' by Don Carson (CC-BY) - https://poly.google.com/view/44XK5UHTd4Q
