@@ -1,4 +1,4 @@
-# AR Challenge
+# Web AR Challenge
 
 This demo was developed with 2 goals in mind:
 
